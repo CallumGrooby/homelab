@@ -28,7 +28,6 @@ A self-hosted homelab built on a HP EliteDesk running multiple services. Designe
 | [Ubuntu Server](./ubuntu-server/) | Base server deployment, SSH, CasaOS, file sharing |
 | [Minecraft Server](./minecraft-server/) | Self-hosted modded game server with secure external access |
 | [Immich](./immich/) | Self-hosted photo/video management replacing iCloud |
-| [Network](./network/) | OPNsense firewall, rack setup, and network topology |
 
 ---
 
